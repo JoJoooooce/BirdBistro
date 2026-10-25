@@ -15,6 +15,13 @@
 
 首次使用时，完成一次每日签到即可获得免费饲料并体验喂食功能，无需购买即可使用核心互动功能。
 
+![image](blob/main/Screenshot%20iPhone%2016%202026-09-20%20at%2011.23.30.png)
+![image](blob/main/Screenshot%20iPhone%2016%202026-09-20%20at%2011.23.38.png)
+![image](blob/main/Screenshot%20iPhone%2016%202026-09-20%20at%2011.23.42.png)
+![image](blob/main/Screenshot%20iPhone%2016%202026-09-20%20at%2011.23.48.png)
+![image](blob/main/Screenshot%20iPhone%2016%202026-09-20%20at%2011.23.50.png)
+
+
 ## App 内购买与权益
 
 App 内购买由 Apple App Store 处理。实际价格、付款方式和适用税费均以 App Store 的购买页面显示为准。
